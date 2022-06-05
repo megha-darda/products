@@ -1,7 +1,6 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 It uses mongodb. MongoDb Compass should be downloaded.
 
 ## TechStack
