@@ -28,5 +28,7 @@ $ npm run start:prod
 
 ## For Checking the APIs and their use go to the Swagger Documentation 
 ```
-# Go to http://localhost:3000/swagger
+# Go to http://localhost:3000/swagger 
+
+## For seller APIs add 'sellerId' in the headers
 ```
